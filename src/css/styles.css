@@ -11,7 +11,12 @@
     color: #212121;
     line-height: 1.5;
   }
-  
+  li {
+    list-style-type: none;
+   
+    padding: 0;
+  }
+
   #search-box {
     font: inherit;
     padding: 8px;
@@ -19,3 +24,11 @@
     margin-bottom: 16px;
   }
   
+  .preview_title {
+    display: inline;
+    padding-left: 10px;
+  }
+  .country_title {
+    display: inline;
+    padding-left: 10px;
+  }
