@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://liubov12.github.io/goit-js-hw-10",
+  "homepage": "https://liubov12.github.io/js-country",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
+    "build": "parcel build src/*.html --public-url /js-country/"
   },
   "repository": {
     "type": "git",
